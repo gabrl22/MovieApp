@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="overview_placeholder">Following the events of Age of Ultron,
+        the collective governments of the world pass an act designed to regulate
+        all superhuman activity. This polarizes opinion amongst the Avengers,
+        causing two factions to side with Iron Man or Captain America, which
+        causes an epic battle between former allies.</string>
+    <string name="detail_subheading">Overview</string>
+
+
+
+    <string name="pref_sort_title">Sort by</string>
+    <string name="pref_sort_key">sort</string>
+    <string name="pref_sort_default_value">popular</string>
+    <string-array name="pref_sort_entries">
+        <item>Popular</item>
+        <item>Top rated</item>
+    </string-array>
+    <string-array name="pref_sort_values">
+        <item>popular</item>
+        <item>top_rated</item>
+    </string-array>
+</resources>
